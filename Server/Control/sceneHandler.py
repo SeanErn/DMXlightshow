@@ -2,8 +2,8 @@ import os
 import threading
 
 def sceneRunner(scene):
-    os.chdir(os.path.dirname('Scenes'))
-    os.system(f'python {os.path.basename(scene)}')
+    os.chdir('./Control/Scenes')
+    os.system(f'python {scene}')
     
 def startScene(scene):
     print("Starting scene: " + scene)

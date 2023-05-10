@@ -1,0 +1,12 @@
+{
+    "buttonEnabled": "true",
+    
+    "lightIPs":{
+        "lifxZ":"192.168.107.18",
+        "overheadLight":"192.168.107.212"
+    },
+    "lightMacAdresses":{
+        "lifxZ":"d0:73:d5:41:45:4c",
+        "overheadLight":"d0:73:d5:24:48:0d"
+    }
+}
